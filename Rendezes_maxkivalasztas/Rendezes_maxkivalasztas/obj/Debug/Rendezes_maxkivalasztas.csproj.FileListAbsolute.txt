@@ -1,0 +1,7 @@
+C:\Users\dex02\source\repos\Rendezes_maxkivalasztas\Rendezes_maxkivalasztas\bin\Debug\Rendezes_maxkivalasztas.exe.config
+C:\Users\dex02\source\repos\Rendezes_maxkivalasztas\Rendezes_maxkivalasztas\bin\Debug\Rendezes_maxkivalasztas.exe
+C:\Users\dex02\source\repos\Rendezes_maxkivalasztas\Rendezes_maxkivalasztas\bin\Debug\Rendezes_maxkivalasztas.pdb
+C:\Users\dex02\source\repos\Rendezes_maxkivalasztas\Rendezes_maxkivalasztas\obj\Debug\Rendezes_maxkivalasztas.csprojAssemblyReference.cache
+C:\Users\dex02\source\repos\Rendezes_maxkivalasztas\Rendezes_maxkivalasztas\obj\Debug\Rendezes_maxkivalasztas.csproj.CoreCompileInputs.cache
+C:\Users\dex02\source\repos\Rendezes_maxkivalasztas\Rendezes_maxkivalasztas\obj\Debug\Rendezes_maxkivalasztas.exe
+C:\Users\dex02\source\repos\Rendezes_maxkivalasztas\Rendezes_maxkivalasztas\obj\Debug\Rendezes_maxkivalasztas.pdb
