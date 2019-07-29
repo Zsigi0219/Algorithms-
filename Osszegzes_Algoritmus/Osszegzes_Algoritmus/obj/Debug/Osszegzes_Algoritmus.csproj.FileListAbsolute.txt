@@ -1,0 +1,7 @@
+C:\Users\dex02\source\repos\Osszegzes_Algoritmus\Osszegzes_Algoritmus\bin\Debug\Osszegzes_Algoritmus.exe.config
+C:\Users\dex02\source\repos\Osszegzes_Algoritmus\Osszegzes_Algoritmus\bin\Debug\Osszegzes_Algoritmus.exe
+C:\Users\dex02\source\repos\Osszegzes_Algoritmus\Osszegzes_Algoritmus\bin\Debug\Osszegzes_Algoritmus.pdb
+C:\Users\dex02\source\repos\Osszegzes_Algoritmus\Osszegzes_Algoritmus\obj\Debug\Osszegzes_Algoritmus.csprojAssemblyReference.cache
+C:\Users\dex02\source\repos\Osszegzes_Algoritmus\Osszegzes_Algoritmus\obj\Debug\Osszegzes_Algoritmus.csproj.CoreCompileInputs.cache
+C:\Users\dex02\source\repos\Osszegzes_Algoritmus\Osszegzes_Algoritmus\obj\Debug\Osszegzes_Algoritmus.exe
+C:\Users\dex02\source\repos\Osszegzes_Algoritmus\Osszegzes_Algoritmus\obj\Debug\Osszegzes_Algoritmus.pdb
