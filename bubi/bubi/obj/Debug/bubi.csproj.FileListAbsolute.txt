@@ -1,0 +1,7 @@
+C:\Users\dex02\source\repos\bubi\bubi\bin\Debug\bubi.exe.config
+C:\Users\dex02\source\repos\bubi\bubi\bin\Debug\bubi.exe
+C:\Users\dex02\source\repos\bubi\bubi\bin\Debug\bubi.pdb
+C:\Users\dex02\source\repos\bubi\bubi\obj\Debug\bubi.csprojAssemblyReference.cache
+C:\Users\dex02\source\repos\bubi\bubi\obj\Debug\bubi.csproj.CoreCompileInputs.cache
+C:\Users\dex02\source\repos\bubi\bubi\obj\Debug\bubi.exe
+C:\Users\dex02\source\repos\bubi\bubi\obj\Debug\bubi.pdb
