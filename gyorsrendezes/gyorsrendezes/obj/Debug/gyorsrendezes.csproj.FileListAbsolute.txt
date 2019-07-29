@@ -1,0 +1,6 @@
+C:\Users\dex02\source\repos\gyorsrendezes\gyorsrendezes\obj\Debug\gyorsrendezes.csproj.CoreCompileInputs.cache
+C:\Users\dex02\source\repos\gyorsrendezes\gyorsrendezes\bin\Debug\gyorsrendezes.exe.config
+C:\Users\dex02\source\repos\gyorsrendezes\gyorsrendezes\bin\Debug\gyorsrendezes.exe
+C:\Users\dex02\source\repos\gyorsrendezes\gyorsrendezes\bin\Debug\gyorsrendezes.pdb
+C:\Users\dex02\source\repos\gyorsrendezes\gyorsrendezes\obj\Debug\gyorsrendezes.exe
+C:\Users\dex02\source\repos\gyorsrendezes\gyorsrendezes\obj\Debug\gyorsrendezes.pdb
