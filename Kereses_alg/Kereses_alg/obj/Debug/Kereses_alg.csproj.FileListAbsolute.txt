@@ -1,0 +1,6 @@
+C:\Users\dex02\source\repos\Kereses_alg\Kereses_alg\bin\Debug\Kereses_alg.exe.config
+C:\Users\dex02\source\repos\Kereses_alg\Kereses_alg\bin\Debug\Kereses_alg.exe
+C:\Users\dex02\source\repos\Kereses_alg\Kereses_alg\bin\Debug\Kereses_alg.pdb
+C:\Users\dex02\source\repos\Kereses_alg\Kereses_alg\obj\Debug\Kereses_alg.csproj.CoreCompileInputs.cache
+C:\Users\dex02\source\repos\Kereses_alg\Kereses_alg\obj\Debug\Kereses_alg.exe
+C:\Users\dex02\source\repos\Kereses_alg\Kereses_alg\obj\Debug\Kereses_alg.pdb
