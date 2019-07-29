@@ -1,0 +1,7 @@
+C:\Users\dex02\source\repos\szetvalogatas\szetvalogatas\bin\Debug\szetvalogatas.exe.config
+C:\Users\dex02\source\repos\szetvalogatas\szetvalogatas\bin\Debug\szetvalogatas.exe
+C:\Users\dex02\source\repos\szetvalogatas\szetvalogatas\bin\Debug\szetvalogatas.pdb
+C:\Users\dex02\source\repos\szetvalogatas\szetvalogatas\obj\Debug\szetvalogatas.csprojAssemblyReference.cache
+C:\Users\dex02\source\repos\szetvalogatas\szetvalogatas\obj\Debug\szetvalogatas.csproj.CoreCompileInputs.cache
+C:\Users\dex02\source\repos\szetvalogatas\szetvalogatas\obj\Debug\szetvalogatas.exe
+C:\Users\dex02\source\repos\szetvalogatas\szetvalogatas\obj\Debug\szetvalogatas.pdb
