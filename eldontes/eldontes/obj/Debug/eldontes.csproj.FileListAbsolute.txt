@@ -1,0 +1,7 @@
+C:\Users\dex02\source\repos\eldontes\eldontes\bin\Debug\eldontes.exe.config
+C:\Users\dex02\source\repos\eldontes\eldontes\bin\Debug\eldontes.exe
+C:\Users\dex02\source\repos\eldontes\eldontes\bin\Debug\eldontes.pdb
+C:\Users\dex02\source\repos\eldontes\eldontes\obj\Debug\eldontes.csprojAssemblyReference.cache
+C:\Users\dex02\source\repos\eldontes\eldontes\obj\Debug\eldontes.csproj.CoreCompileInputs.cache
+C:\Users\dex02\source\repos\eldontes\eldontes\obj\Debug\eldontes.exe
+C:\Users\dex02\source\repos\eldontes\eldontes\obj\Debug\eldontes.pdb
